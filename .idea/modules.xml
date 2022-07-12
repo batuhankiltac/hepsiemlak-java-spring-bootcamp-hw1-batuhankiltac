@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/hepsiemlak-java-spring-bootcamp-hw1-batuhankiltac-main.iml" filepath="$PROJECT_DIR$/.idea/hepsiemlak-java-spring-bootcamp-hw1-batuhankiltac-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-hepsiemlak-oop/week1-hepsiemlak-oop.iml" filepath="$PROJECT_DIR$/week1-hepsiemlak-oop/week1-hepsiemlak-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-java-algorithms/week1-java-algorithms.iml" filepath="$PROJECT_DIR$/week1-java-algorithms/week1-java-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1-java-multiple-inheritance/week1-java-multiple-inheritance.iml" filepath="$PROJECT_DIR$/week1-java-multiple-inheritance/week1-java-multiple-inheritance.iml" />
+    </modules>
+  </component>
+</project>
